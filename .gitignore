@@ -1,4 +1,6 @@
 .vscode/settings.json
 dataset/audioset
 dataset/kaggle
+dataset/kaggle/kaggle-voice
+dataset/kaggle/kaggle-voice-data
 dataset
